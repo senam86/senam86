@@ -7,6 +7,7 @@
 - 📚 I gained my AWS cloud practitioner and AWS Solutions Architect Associate certifications
 
 
+
 - 🔭 I’m currently working on enhancing my technical, collaboration and leadership skills
 - 🌱 I’m currently learning Python, JavaScript and how to problem solve using Hackerrank
 - 👯 I’m looking to collaborate on Python and JavaScript projects
@@ -14,3 +15,6 @@
 - 💬 Ask me about project management and leadership skills
 - 📫 How to reach me: saymyname78@hotmail.fr
 - ⚡ Fun fact: I enjoy hiking and the outdoors
+
+### 💼 Technical Skills 
+! [Python] 	(https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
