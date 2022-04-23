@@ -1,4 +1,7 @@
 ### Hi there, My name is Sénamé and I transitioned into technlogy in March 2021 👋
+<br>
+
+- 👩🏿‍🎓 I'm currently a mentee at [Black Girls In Tech](https://www.blackgirlsintech.org/)
 
 
 - 🔭 I’m currently working on enhancing my technical, collaboration and leadership skills
