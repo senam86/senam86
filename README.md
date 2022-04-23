@@ -1,7 +1,10 @@
 ### Hi there, My name is Sénamé and I transitioned into technlogy in March 2021 👋
 <br>
 
-- 👩🏿‍🎓 I'm currently a mentee at [Black Girls In Tech](https://www.blackgirlsintech.org/)
+- 👩🏿‍🎓 I'm currently a mentee at [Black Girls In Tech](https://www.blackgirlsintech.org/) and also participating in 100DaysOfPython with  [Coding Black Females](https://codingblackfemales.com/)
+<br>
+
+- 📚 I gained my AWS cloud practitioner and AWS Solutions Architect Associate certifications
 
 
 - 🔭 I’m currently working on enhancing my technical, collaboration and leadership skills
