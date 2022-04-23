@@ -17,4 +17,4 @@
 - ⚡ Fun fact: I enjoy hiking and the outdoors
 
 ### 💼 Technical Skills 
-! [Python] 	(https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
