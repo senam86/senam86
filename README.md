@@ -1,4 +1,4 @@
-### Hi there, My name is Sénamé and I transitioned into technlogy in March 2021 👋
+### Hi there, my name is Sénamé and I transitioned into technlogy in March 2021 👋
 <br>
 
 - 👩🏿‍🎓 I'm currently a mentee at [Black Girls In Tech](https://www.blackgirlsintech.org/) and also participating in 100DaysOfPython with  [Coding Black Females](https://codingblackfemales.com/)
@@ -21,3 +21,5 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
