@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on Python and JavaScript projects
 - 🤔 I’m looking for help with how to become a software engineer and improve my problem solving skills
 - 💬 Ask me about project management and leadership skills
-- 📫 How to reach me: afanyon@protonmail.com ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) @afanyon86 
+- 📫 How to reach me: afanyon@protonmail.com
 - ⚡ Fun fact: I enjoy hiking and the outdoors
 
 ### 💼 Technical Skills 
