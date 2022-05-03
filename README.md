@@ -24,12 +24,3 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-## Let's connect 
-![Twitter](https://twitter.com/Afanyon86?ref_src=twsrc%5Etfw)
-![LinkedIn](https://uk.linkedin.com/in/s%C3%A9nam%C3%A9-agblevon?trk=profile-badge)
-<!-- <a href="https://twitter.com/Afanyon86?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Afanyon86</a> -->
-<!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
-<!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> -->
-<!-- <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sénamé-agblevon" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/s%C3%A9nam%C3%A9-agblevon?trk=profile-badge">Sénamé Agblevon, AMBCS</a></div> -->
-<!-- <a href="https://www.linkedin.com/in/sénamé-agblevon"><img src=></a> -->
