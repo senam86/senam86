@@ -24,3 +24,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+Let's connect 
+<a href="https://twitter.com/Afanyon86?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Afanyon86</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!-- <a href="https://www.linkedin.com/in/sénamé-agblevon"><img src=></a> -->
