@@ -26,4 +26,5 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Let's connect
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/afanyon86.svg?style=social&label=Follow%20%40afanyon86)](https://twitter.com/afanyon86)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Afanyon86.svg?style=social&label=Follow%20%40Afanyon86)](https://twitter.com/Afanyon86)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sénamé-agblevon)
