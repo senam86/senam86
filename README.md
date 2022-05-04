@@ -25,5 +25,5 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## Let's connect
-![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/afanyon86.svg?style=social&label=Follow%20%40afanyon86)(https://twitter.com/afanyon86)
+### Let's connect
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/afanyon86.svg?style=social&label=Follow%20%40afanyon86)](https://twitter.com/afanyon86)
